@@ -1,5 +1,6 @@
 import torch
 import matplotlib
+import numpy
 
 def corrupt_mnist():
     """Return train and test dataloaders for corrupt MNIST."""
